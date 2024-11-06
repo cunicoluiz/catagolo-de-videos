@@ -1,12 +1,24 @@
 body {
     color: white;
     background: black;
+    margin: opx;
 }
 
-header {
 
+header {
+    border-bottom: solid 2px rgb(64, 10, 134);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(41, 41, 168);
+}
+section {  
+background-color: rgb(39, 39, 122);
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
 }
 
-header {
-    border: solid 2px white;
+.chamda-texto {
+    margin: right 5%;
 }
